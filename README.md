@@ -5,8 +5,8 @@
 ### 써커스 : [Timer, process](https://github.com/codesquad-be-nodejs-study/codesquad-node-API/blob/master/TimerProcess.md)
 
 ### 왕민 : [OS, Path](https://github.com/codesquad-be-nodejs-study/codesquad-node-API/blob/master/OsAndPath.md)
-
-### 쏘니 : URL, Crypto, util
+i
+### 쏘니 : [URL](https://github.com/codesquad-be-nodejs-study/codesquad-node-API/blob/master/url.md), [Crypto](https://github.com/codesquad-be-nodejs-study/codesquad-node-API/blob/master/crypto.md), util
 
 ### 수 : Http,http2,https
 
