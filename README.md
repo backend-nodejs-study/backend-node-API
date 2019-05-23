@@ -1,6 +1,6 @@
 # codesquad-node-API
 
-잉글비 : Module, global, console
+잉글비 : [Module](https://github.com/codesquad-be-nodejs-study/codesquad-node-API/blob/master/module.md), global, [console](https://github.com/codesquad-be-nodejs-study/codesquad-node-API/blob/master/console.md)
 
 써커스 : Timer, process
 
