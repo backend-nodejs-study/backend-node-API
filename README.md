@@ -2,9 +2,9 @@
 
 ### 잉글비 : [Module](https://github.com/codesquad-be-nodejs-study/codesquad-node-API/blob/master/module.md), [console](https://github.com/codesquad-be-nodejs-study/codesquad-node-API/blob/master/console.md)
 
-### 써커스 : Timer, process
+### 써커스 : [Timer, process](https://github.com/codesquad-be-nodejs-study/codesquad-node-API/blob/master/TimerProcess.md)
 
-### 왕민 : OS, Path
+### 왕민 : [OS, Path](https://github.com/codesquad-be-nodejs-study/codesquad-node-API/blob/master/OsAndPath.md)
 
 ### 쏘니 : URL, Crypto, util
 
