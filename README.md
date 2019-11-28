@@ -1,4 +1,4 @@
-# codesquad-node-API
+# node-API
 
 ### 잉글비 : [Module](https://github.com/codesquad-be-nodejs-study/codesquad-node-API/blob/master/module.md), [console](https://github.com/codesquad-be-nodejs-study/codesquad-node-API/blob/master/console.md)
 
